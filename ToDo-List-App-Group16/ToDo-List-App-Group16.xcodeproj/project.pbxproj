@@ -14,6 +14,7 @@
 		A994073029207165003A6EE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A994072E29207165003A6EE8 /* LaunchScreen.storyboard */; };
 		A9940738292078EB003A6EE8 /* TasksTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9940737292078EB003A6EE8 /* TasksTableViewController.swift */; };
 		A994073A2920890C003A6EE8 /* TaskDetailsvViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99407392920890C003A6EE8 /* TaskDetailsvViewController.swift */; };
+		A994073C292153F1003A6EE8 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = A994073B292153F1003A6EE8 /* Item.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A994073129207165003A6EE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A9940737292078EB003A6EE8 /* TasksTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksTableViewController.swift; sourceTree = "<group>"; };
 		A99407392920890C003A6EE8 /* TaskDetailsvViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailsvViewController.swift; sourceTree = "<group>"; };
+		A994073B292153F1003A6EE8 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A994073129207165003A6EE8 /* Info.plist */,
 				A9940737292078EB003A6EE8 /* TasksTableViewController.swift */,
 				A99407392920890C003A6EE8 /* TaskDetailsvViewController.swift */,
+				A994073B292153F1003A6EE8 /* Item.swift */,
 			);
 			path = "ToDo-List-App-Group16";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A994073C292153F1003A6EE8 /* Item.swift in Sources */,
 				A994072429207163003A6EE8 /* AppDelegate.swift in Sources */,
 				A994073A2920890C003A6EE8 /* TaskDetailsvViewController.swift in Sources */,
 				A9940738292078EB003A6EE8 /* TasksTableViewController.swift in Sources */,
