@@ -47,7 +47,7 @@ class TaskDetailsvViewController: UIViewController
     func formatDate(date: Date) -> String
     {
         let formartter = DateFormatter ()
-        formartter.dateFormat = "MMMM dd yyyy"
+        formartter.dateFormat = "MMMM dd, yyyy"
         return formartter.string(from: date)
     }
     
